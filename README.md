@@ -1,7 +1,29 @@
 # Hi there 👋, I'm Eraj Javed  
 
-💻 **Aspiring Data Scientist & ML Enthusiast** with interests in **Bioinformatics** and **Data Analysis**.  
-I enjoy solving problems with Python, SQL, and Machine Learning, and I’m currently exploring AI-driven solutions in healthcare and research.  
+💻 Bioinformatician with a strong focus on Computer Science & Data Science
+I bridge the gap between biology and computation, with a passion for applying algorithms, databases, and machine learning to solve real-world problems.
+
+🚀 What I Do
+
+🐍 Build software and pipelines in Python, SQL, and C++
+
+📊 Apply Machine Learning & Data Analysis for healthcare and research
+
+🧬 Work with bioinformatics databases & tools (NCBI, PDB, BLAST)
+
+⚙️ Explore AI-driven solutions for biology and beyond
+
+🌱 Currently Exploring
+
+Deepening my understanding of CS concepts & system design
+
+Building projects in ML, data pipelines, and bioinformatics
+
+Strengthening my portfolio with open-source contributions
+
+🎯 Goal
+
+To become a Data Scientist / ML Engineer who designs intelligent systems for healthcare, bioinformatics, and beyond.
 
 ---
 
