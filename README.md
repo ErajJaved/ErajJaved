@@ -59,7 +59,7 @@ To become a **Data Scientist / ML Engineer** who designs intelligent systems for
 ## 📊 Technical Expertise  
 
 - **Data Analysis** (Pandas, NumPy, Matplotlib, ggplot2)  
-- **Machine Learning** (Scikit-learn, caret in R)  
+- **Machine Learning** (Scikit-learn)  
 - **Research Analysis**  
 - **Problem Solving**  
 
