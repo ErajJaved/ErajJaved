@@ -68,10 +68,8 @@ To become a **Data Scientist / ML Engineer** who designs intelligent systems for
 ## 🧬 Bioinformatics  
 
 - Databases: **NCBI, Ensembl, UniProt, PDB, KEGG**  
-- Tools: **BLAST, Clustal Omega, Galaxy**  
-- Pipelines: **Snakemake, Nextflow**  
-- R Ecosystem: **Bioconductor, tidyverse, ggplot2**  
-- Skills: **Sequence alignment, Molecular docking, Omics data analysis**  
+- Tools: **BLAST, Clustal Omega, Mega Software**  
+- Skills: **Sequence alignment, Omics data analysis, Research Analysis**  
 
 ---
 
